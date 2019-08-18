@@ -77,7 +77,7 @@ body {
     background: #4aaaa5;
   }
   
-  nav {
+  navbarText {
     float: right;
     margin-top: 25px;
   }
@@ -219,4 +219,5 @@ body {
     height: 50px;
 
 }
+
 /*  */
